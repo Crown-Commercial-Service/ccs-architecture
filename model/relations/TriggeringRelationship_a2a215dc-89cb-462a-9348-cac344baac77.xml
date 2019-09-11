@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="triggers (on check-in)"
+    id="a2a215dc-89cb-462a-9348-cac344baac77">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_60ddbb4a-e325-4be6-963a-ce8cf08fe664.xml#60ddbb4a-e325-4be6-963a-ce8cf08fe664"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_6696ae1f-1db3-4f30-996d-daf68e1c5e52.xml#6696ae1f-1db3-4f30-996d-daf68e1c5e52"/>
+</archimate:TriggeringRelationship>
