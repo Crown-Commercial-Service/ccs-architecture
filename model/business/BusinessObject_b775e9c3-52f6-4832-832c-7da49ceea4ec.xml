@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basket"
+    id="b775e9c3-52f6-4832-832c-7da49ceea4ec"
+    documentation="type Basket = Cart | Favourites | ...?"/>

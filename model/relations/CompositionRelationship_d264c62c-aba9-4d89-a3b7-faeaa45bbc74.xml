@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="?"
+    id="d264c62c-aba9-4d89-a3b7-faeaa45bbc74"
+    documentation="If there is a notion of related items, either items need to be classified, explicitly connected or some business logic based on other attributes.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e232341b-21e0-4489-9628-7e95d9c3c7d4.xml#e232341b-21e0-4489-9628-7e95d9c3c7d4"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_a58be463-776a-4af3-9299-31c9abc23646.xml#a58be463-776a-4af3-9299-31c9abc23646"/>
+</archimate:CompositionRelationship>
