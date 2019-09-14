@@ -47,8 +47,8 @@
       textAlignment="1"
       content="A procurement contract always relates to an ITT, but could be specific to a procurement lot.">
     <bounds
-        x="516"
-        y="233"
+        x="540"
+        y="240"
         width="125"
         height="44"/>
   </children>
