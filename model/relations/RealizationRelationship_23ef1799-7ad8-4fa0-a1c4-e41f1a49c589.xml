@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="via CodeBuild Pipleline"
+    id="23ef1799-7ad8-4fa0-a1c4-e41f1a49c589">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_2002b6bc-5b1c-4f1c-94e7-3126c003d0a2.xml#2002b6bc-5b1c-4f1c-94e7-3126c003d0a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d0fdb39d-98f8-4ac1-ab79-a26422fb426e.xml#d0fdb39d-98f8-4ac1-ab79-a26422fb426e"/>
+</archimate:RealizationRelationship>
