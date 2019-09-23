@@ -667,4 +667,27 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_057fb26e-b446-4007-b082-3fe55490d777.xml#057fb26e-b446-4007-b082-3fe55490d777"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f32df098-2ee2-467d-b2bc-248c7ff44d16"
+      content="Crown Commercial Service&#xA;Buy a Thing domain model"
+      borderType="1">
+    <bounds
+        x="24"
+        y="24"
+        width="349"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ea6fdc97-e4f2-4129-a10e-7b878e746ef8"
+      textAlignment="1"
+      content="The ‘Buy A Thing’ capability is defined as the digital user journey that facilitates the immediate purchase of goods or services where the price is known and fixed up-front and therefore requires no further procurement activities or competition with the supplier to complete the buy."
+      borderType="1">
+    <bounds
+        x="24"
+        y="72"
+        width="349"
+        height="85"/>
+  </children>
 </archimate:ArchimateDiagramModel>
