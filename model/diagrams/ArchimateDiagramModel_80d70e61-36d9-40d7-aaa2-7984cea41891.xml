@@ -336,6 +336,25 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_1bbdac62-afe9-4aab-9d01-cf2ed992ac0e.xml#1bbdac62-afe9-4aab-9d01-cf2ed992ac0e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3b1dff17-56f4-4590-bf1d-d76f661defdd"
+        source="a1603ec9-46f3-4a81-8538-2c37f77a4122"
+        target="6b2af6ad-2414-4183-a209-dd8dbd7701ec">
+      <bendpoints
+          startX="-17"
+          startY="154"
+          endX="194"
+          endY="-122"/>
+      <bendpoints
+          startX="-125"
+          startY="262"
+          endX="86"
+          endY="-14"/>
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_2ae1e18d-8589-4c1b-b516-c313f87cda2e.xml#2ae1e18d-8589-4c1b-b516-c313f87cda2e"/>
+    </sourceConnections>
     <bounds
         x="246"
         y="384"
@@ -1350,5 +1369,33 @@
         y="156"
         width="185"
         height="84"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6b2af6ad-2414-4183-a209-dd8dbd7701ec"
+      targetConnections="3b1dff17-56f4-4590-bf1d-d76f661defdd bc8f6723-b6b4-47d8-8946-339e4e9fc179">
+    <bounds
+        x="35"
+        y="660"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_9569e3ff-e97f-48be-8fba-4326a662aeeb.xml#9569e3ff-e97f-48be-8fba-4326a662aeeb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="0391a79f-ba31-4e15-8c85-3d1c77c80983"
+      textAlignment="1"
+      content="PR-008: Product reviews are shown either as part of the search result or as details from the Content Store.">
+    <sourceConnections
+        id="bc8f6723-b6b4-47d8-8946-339e4e9fc179"
+        source="0391a79f-ba31-4e15-8c85-3d1c77c80983"
+        target="6b2af6ad-2414-4183-a209-dd8dbd7701ec"/>
+    <bounds
+        x="-228"
+        y="635"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
