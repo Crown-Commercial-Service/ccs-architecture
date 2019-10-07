@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scale-Technology-Blueprint"
+    id="49805a96-f7c6-4108-8f87-69fcfdecc214">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="bb6c8df2-b2a4-4b00-9acc-4b7152f19e45">
+    <bounds
+        x="338"
+        y="177"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_733e645e-0f9b-4b83-900e-8e5c8bc3f1e3.xml#733e645e-0f9b-4b83-900e-8e5c8bc3f1e3"/>
+  </children>
+</archimate:ArchimateDiagramModel>
