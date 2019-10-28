@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CCS-BaT-DomainModel"
+    name="Scale-BaT-DomainModel"
     id="43d7bbc1-6358-4725-9e6b-32b6c85d04d5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

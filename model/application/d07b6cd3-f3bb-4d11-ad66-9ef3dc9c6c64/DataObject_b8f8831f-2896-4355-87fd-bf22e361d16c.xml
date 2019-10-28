@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Clarification"
+    id="b8f8831f-2896-4355-87fd-bf22e361d16c"
+    documentation="A Clarification request.&#xA;&#xA;A Supplier can request a Clarification to a Brief or EOI done by a Customer."/>
