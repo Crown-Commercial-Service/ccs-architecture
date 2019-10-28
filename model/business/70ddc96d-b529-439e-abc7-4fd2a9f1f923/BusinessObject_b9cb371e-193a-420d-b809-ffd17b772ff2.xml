@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogue"
+    id="b9cb371e-193a-420d-b809-ffd17b772ff2"
+    documentation="A Catalogue is a set of Catalogue Items provided by a Supplier.&#xA;&#xA;A Supplier may have one or more Catalogues per Agreement.&#xA;&#xA;If a Supplier wishes to provide eg localised or time-limited items, that is represented as a distinct Catalogue.&#xA;&#xA;A Catalogue may expire.&#xA;&#xA;A Catalogue has geographical availability."/>

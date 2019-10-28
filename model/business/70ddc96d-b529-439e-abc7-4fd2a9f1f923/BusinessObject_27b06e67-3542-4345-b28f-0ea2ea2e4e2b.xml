@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proof"
+    id="27b06e67-3542-4345-b28f-0ea2ea2e4e2b"
+    documentation="The Proof of how the procurement process was done, what criteria was used to award.&#xA;&#xA;It's purpose is to allow an audit.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="Needs refining and check with business on what kind of proofs do we need (e.g. Further Competition may be different than Direct Award or eAuction)"/>
+</archimate:BusinessObject>

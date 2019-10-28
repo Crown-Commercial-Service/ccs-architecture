@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refund"
+    id="9daf84b7-e93f-4aa5-9085-5473127b0daa"
+    documentation="A repayment of a Transaction.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="It is unclear if this information will be available at all."/>
+</archimate:BusinessObject>

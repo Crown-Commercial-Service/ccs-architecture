@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buyer"
+    id="8ddb7ee1-710e-4d81-9e07-ae842ce6bc7e"
+    documentation="The buyer is the legal person or organization acting on behalf of the customer who buys or purchases the goods or services.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="There is a lot of confusion between Buyer and Customer. Most of the time CCS people use &quot;Buyer&quot; to mean &quot;the person that wants to procure something, which this model calls Customer&quot;"/>
+</archimate:BusinessObject>

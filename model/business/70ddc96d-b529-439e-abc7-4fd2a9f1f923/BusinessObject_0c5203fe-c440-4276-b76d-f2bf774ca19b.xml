@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Role"
+    id="0c5203fe-c440-4276-b76d-f2bf774ca19b"
+    documentation="An access role. Defines what rights are given to an Account."/>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review"
+    id="987a2008-d454-4a79-a0e0-cc9d283b779b"
+    documentation="A review for an Item or a Supplier qualifying the product or service received.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="The BaT business requirements are vague on how the review system would work"/>
+</archimate:BusinessObject>

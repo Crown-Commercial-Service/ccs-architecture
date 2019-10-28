@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction"
+    id="61ec5643-b063-450c-bd55-783066448354"
+    documentation="A Transaction paying for an Order."/>

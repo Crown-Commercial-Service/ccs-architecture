@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levy"
+    id="46b19d1f-01fa-4fe5-af1d-54253b06af16"
+    documentation="The levy percentage associated with a particular transaction between a Customer and a Supplier.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="This concept may be more complex as Suppliers pay in bulk some times. Check with business"/>
+</archimate:BusinessObject>

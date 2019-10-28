@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brief"
+    id="333d84fb-3d32-4879-bfe1-8593d8dcb85c"
+    documentation="A Brief is the specification put together by the Customer to start a procurement process.&#xA;&#xA;Further Competition requires it, Direct Award is unclear at the moment but could help."/>

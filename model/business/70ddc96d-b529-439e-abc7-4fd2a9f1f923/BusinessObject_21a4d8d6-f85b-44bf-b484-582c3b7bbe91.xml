@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bid Status"
+    id="21a4d8d6-f85b-44bf-b484-582c3b7bbe91">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="Should this be &quot;Bid&quot; instead of &quot;Bid status&quot;?"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Item"
+    id="e232341b-21e0-4489-9628-7e95d9c3c7d4"
+    documentation="A Product or Service.&#xA;&#xA;">
+  <properties
+      key="see_also"
+      value="https://schema.org/Offer"/>
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="The definition of Item is too vague. Needs refinining."/>
+  <properties
+      key="types"
+      value="Product, Service"/>
+</archimate:BusinessObject>

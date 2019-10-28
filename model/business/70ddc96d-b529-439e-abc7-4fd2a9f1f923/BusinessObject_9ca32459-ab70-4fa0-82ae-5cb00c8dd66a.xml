@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Line"
+    id="9ca32459-ab70-4fa0-82ae-5cb00c8dd66a">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="It is unclear how this relates to Framework Lot and to Commercial Agreement"/>
+</archimate:BusinessObject>

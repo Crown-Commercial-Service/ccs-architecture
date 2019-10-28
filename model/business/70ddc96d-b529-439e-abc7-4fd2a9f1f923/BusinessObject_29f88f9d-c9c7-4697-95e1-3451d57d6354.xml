@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="29f88f9d-c9c7-4697-95e1-3451d57d6354">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="Is this the same as &quot;Agreement Contract&quot;?"/>
+</archimate:BusinessObject>

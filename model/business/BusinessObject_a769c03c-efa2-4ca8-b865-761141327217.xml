@@ -1,5 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Order"
-    id="a769c03c-efa2-4ca8-b865-761141327217"
-    documentation="https://schema.org/Order&#xA;&#xA;It should be composed of https://schema.org/OrderItem which would have a reference to the Item, quantity, supplier, etc."/>

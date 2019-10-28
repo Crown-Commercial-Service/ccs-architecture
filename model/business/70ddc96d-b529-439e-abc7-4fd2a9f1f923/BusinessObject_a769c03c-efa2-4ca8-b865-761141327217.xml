@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order"
+    id="a769c03c-efa2-4ca8-b865-761141327217"
+    documentation="An order is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer.">
+  <properties
+      key="see_also"
+      value="https://schema.org/Order"/>
+</archimate:BusinessObject>

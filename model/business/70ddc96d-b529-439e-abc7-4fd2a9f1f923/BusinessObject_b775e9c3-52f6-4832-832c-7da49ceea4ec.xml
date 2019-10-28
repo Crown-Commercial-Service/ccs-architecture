@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Basket"
+    id="b775e9c3-52f6-4832-832c-7da49ceea4ec"
+    documentation="A Basket is a set of Catalogue Items selected by the Customer from different Commercial Agreements (and different Suppliers).">
+  <properties
+      key="aliases"
+      value="Cart"/>
+  <properties
+      key="states"
+      value="Open, Saved, Selected, Closed"/>
+</archimate:BusinessObject>

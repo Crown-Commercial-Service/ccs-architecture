@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Search Result"
+    id="3bbae3ea-aaa4-4f77-b567-85584ff6717f"
+    documentation="A Search result is a set of Items (products and services) from any available Commercial Agreement.">
+  <properties
+      key="status"
+      value="review"/>
+  <properties
+      key="status_comment"
+      value="Depending on how FaT turns out to be, this will need refining. It is here because at some point we considered search results as able to be saved"/>
+</archimate:BusinessObject>
