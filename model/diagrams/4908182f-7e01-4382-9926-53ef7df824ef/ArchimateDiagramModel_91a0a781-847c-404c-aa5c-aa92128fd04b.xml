@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scale-FaT-Data"
+    name="FaT-Data"
     id="91a0a781-847c-404c-aa5c-aa92128fd04b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

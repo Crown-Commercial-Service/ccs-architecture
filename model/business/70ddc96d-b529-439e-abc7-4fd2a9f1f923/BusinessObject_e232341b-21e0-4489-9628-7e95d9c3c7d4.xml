@@ -15,4 +15,7 @@
   <properties
       key="types"
       value="Product, Service"/>
+  <properties
+      key="aliases"
+      value="Catalogue Item"/>
 </archimate:BusinessObject>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scale-DataFlow"
+    name="DataFlow"
     id="80d70e61-36d9-40d7-aaa2-7984cea41891">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scale-SearchService"
+    name="SearchService"
     id="c3e6f046-7315-4972-aa05-d9346285923f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
