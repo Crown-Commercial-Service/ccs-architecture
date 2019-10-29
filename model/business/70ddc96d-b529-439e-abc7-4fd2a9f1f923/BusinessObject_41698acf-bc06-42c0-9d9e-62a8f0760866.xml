@@ -1,5 +1,9 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Quote"
+    name="Quotation"
     id="41698acf-bc06-42c0-9d9e-62a8f0760866"
-    documentation="A Quote is a pre-order that allows a Customer to get offline approval before placing an order.&#xA;&#xA;If the quote has a &quot;Commitment to Buy&quot;, the Supplier should hold stock for 30 days, or as per Commercial Agreement rules."/>
+    documentation="A Quotation is a pre-order that allows a Customer to get offline approval before placing an order.&#xA;&#xA;If the quote has a &quot;Commitment to Buy&quot;, the Supplier should hold stock for 30 days, or as per Commercial Agreement rules.">
+  <properties
+      key="aliases"
+      value="Quote"/>
+</archimate:BusinessObject>
