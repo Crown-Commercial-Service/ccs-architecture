@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forwarder"
+    id="f32f6eef-bc2c-43ba-8a23-38124bf7c721"
+    documentation="An intermediary in a fulfilment process.&#xA;&#xA;See also https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-SHIPMENT-CONSIGNMENT"/>
