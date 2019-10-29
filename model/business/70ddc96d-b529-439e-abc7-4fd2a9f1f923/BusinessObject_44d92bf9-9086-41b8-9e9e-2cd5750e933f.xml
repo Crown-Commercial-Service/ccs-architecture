@@ -6,4 +6,7 @@
   <properties
       key="see_also"
       value="https://schema.org/OrderItem"/>
+  <properties
+      key="aliases"
+      value="OrderLine, ItemLine"/>
 </archimate:BusinessObject>

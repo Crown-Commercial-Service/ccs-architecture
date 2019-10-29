@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice Item"
+    id="0439e0a6-2dee-4004-ba49-29ded1e4e5b3"
+    documentation="An invoice item is a line of an invoice. It includes the quantity and shipping details of a bought offer.&#xA;&#xA;Note that an Invoice Item is not an Item although it is associated with one. ">
+  <properties
+      key="see_also"
+      value="https://schema.org/OrderItem"/>
+  <properties
+      key="aliases"
+      value="InvoiceLine, ItemLine"/>
+</archimate:BusinessObject>

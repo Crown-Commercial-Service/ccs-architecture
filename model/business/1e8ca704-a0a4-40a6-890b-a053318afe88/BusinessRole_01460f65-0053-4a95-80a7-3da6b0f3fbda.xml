@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consignor"
+    id="01460f65-0053-4a95-80a7-3da6b0f3fbda"
+    documentation="Typically a Supplier consigns a shippment and a consigment in a fulfilment process.&#xA;&#xA;See https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-SHIPMENT-CONSIGNMENT"/>
