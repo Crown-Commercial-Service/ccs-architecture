@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Profile"
+    id="3eba8459-01d4-4e83-b0cb-80d776df36e2"
+    documentation="A user profile is the infoset the CCS system has about a user.&#xA;&#xA;See also: Account Profile"/>

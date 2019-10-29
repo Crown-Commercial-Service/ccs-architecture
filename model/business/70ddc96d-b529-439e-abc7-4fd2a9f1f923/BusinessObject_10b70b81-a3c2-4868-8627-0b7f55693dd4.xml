@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Account"
+    id="10b70b81-a3c2-4868-8627-0b7f55693dd4"
+    documentation="A user account is the materialisation of the access to the CCS system by a user.&#xA;&#xA;See also: UserProfile"/>
