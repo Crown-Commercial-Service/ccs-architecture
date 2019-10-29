@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CCS Architecture"
     id="fa7c7a16-1338-4eae-97e2-7b9aed26799c"
+    purpose="Note: When in doubt, the definitions align with http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html"
     version="4.4.0"/>
