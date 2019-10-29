@@ -1,5 +1,5 @@
-<archimate:BusinessActor
+<archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buyer"
-    id="b648d3df-b07d-4d82-b7a3-83cf470a3297"
+    id="33ca2c1c-06d4-40a3-9f95-71fa52322a92"
     documentation="The buyer is the legal person or organization acting on behalf of the customer who buys or purchases the goods or services."/>

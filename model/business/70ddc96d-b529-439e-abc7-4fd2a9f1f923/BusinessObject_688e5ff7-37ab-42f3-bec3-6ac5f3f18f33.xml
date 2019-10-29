@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Item instance"
+    id="688e5ff7-37ab-42f3-bec3-6ac5f3f18f33"
+    documentation="Certain Items may be identified and ordered as individual, unique objects—for example, a specific car rather than a make and model of a car. &#xA;&#xA;See https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-ITEM-INSTANCES"/>

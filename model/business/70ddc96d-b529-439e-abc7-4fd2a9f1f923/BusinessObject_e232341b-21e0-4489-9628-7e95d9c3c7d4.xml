@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Item"
     id="e232341b-21e0-4489-9628-7e95d9c3c7d4"
-    documentation="A Product or Service.&#xA;&#xA;">
+    documentation="An Item may be a Product or Service.&#xA;&#xA;See https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-ITEMS">
   <properties
       key="see_also"
       value="https://schema.org/Offer"/>
