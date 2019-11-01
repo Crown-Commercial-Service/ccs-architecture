@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Quotation"
+    name="Quotation process"
     id="02ec9860-091c-44ee-91a0-7673ccfc3402">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

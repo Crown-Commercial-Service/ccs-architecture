@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DG4"
+    id="1699367c-5cc6-40d8-9130-d5f63f4722ca">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_fb6d97c6-73ad-43b6-9eba-bf66ae5b4c78.xml#fb6d97c6-73ad-43b6-9eba-bf66ae5b4c78"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f2519774-d724-4d15-bea9-f20cdb9b6184.xml#f2519774-d724-4d15-bea9-f20cdb9b6184"/>
+</archimate:TriggeringRelationship>

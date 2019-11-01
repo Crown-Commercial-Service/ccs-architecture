@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fulfilment with intermediary"
+    name="Fulfilment with intermediary process"
     id="706f6dc9-e332-424c-a5de-0e937371015e"
     documentation="A realistic fulfilment process may have many shipments for many consignments. At its simplest, there is one of each.&#xA;&#xA;&#xA;See also https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-SHIPMENT-CONSIGNMENT">
   <children
