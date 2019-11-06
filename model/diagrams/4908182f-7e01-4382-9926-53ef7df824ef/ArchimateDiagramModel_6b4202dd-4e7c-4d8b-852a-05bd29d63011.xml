@@ -63,7 +63,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="40779065-ad2d-4bcc-88ab-74e0e5e1234f"
-      targetConnections="4fbd23dc-1d45-4694-910a-c41649c962bf 384ee350-ec74-4bb6-aa91-a06d2f633168">
+      targetConnections="384ee350-ec74-4bb6-aa91-a06d2f633168 4fbd23dc-1d45-4694-910a-c41649c962bf">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d039c59a-84b0-49da-bd81-d31791b828c0"
@@ -382,6 +382,17 @@
       textAlignment="1"
       content="Guided Match is served by both Agreements and Search via the API Gateway">
     <sourceConnections
+        id="1e528f65-78c6-46d0-bc4c-ae2c7099634d"
+        lineColor="#0000ff"
+        source="90540c10-ed79-4fa7-9c6f-484e0efc6470"
+        target="384ee350-ec74-4bb6-aa91-a06d2f633168"
+        type="2">
+      <bendpoints
+          startX="-402"
+          endX="18"
+          endY="-51"/>
+    </sourceConnections>
+    <sourceConnections
         id="f73f2a7e-b8ab-436f-90bc-300c22ce56fe"
         lineColor="#0000ff"
         source="90540c10-ed79-4fa7-9c6f-484e0efc6470"
@@ -392,17 +403,6 @@
           startY="12"
           endX="18"
           endY="-39"/>
-    </sourceConnections>
-    <sourceConnections
-        id="1e528f65-78c6-46d0-bc4c-ae2c7099634d"
-        lineColor="#0000ff"
-        source="90540c10-ed79-4fa7-9c6f-484e0efc6470"
-        target="384ee350-ec74-4bb6-aa91-a06d2f633168"
-        type="2">
-      <bendpoints
-          startX="-402"
-          endX="18"
-          endY="-51"/>
     </sourceConnections>
     <bounds
         x="696"
