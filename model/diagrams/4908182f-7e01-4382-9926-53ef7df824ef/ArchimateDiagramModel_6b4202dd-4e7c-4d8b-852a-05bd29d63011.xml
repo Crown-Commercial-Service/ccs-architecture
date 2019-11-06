@@ -196,7 +196,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="50d409ff-ca05-4451-b7f8-dae4f7cce5bf"
-      targetConnections="c10b94af-66bd-4cde-aa55-880a4794dae4">
+      targetConnections="361d5093-d3cf-4a48-a3d8-15e3122d0c17">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="35a9ed2c-2e73-4480-abd0-13666ce53c00"
@@ -218,7 +218,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="459464a2-beb2-4f9d-b338-5682aa87c7a2"
-      targetConnections="361d5093-d3cf-4a48-a3d8-15e3122d0c17">
+      targetConnections="c10b94af-66bd-4cde-aa55-880a4794dae4">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7d9fc42e-f6bd-4186-a359-d4b6103887f7"
@@ -253,13 +253,13 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c10b94af-66bd-4cde-aa55-880a4794dae4"
         source="a779f810-2be0-4027-9604-88639783a8da"
-        target="50d409ff-ca05-4451-b7f8-dae4f7cce5bf">
+        target="459464a2-beb2-4f9d-b338-5682aa87c7a2">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_710058be-6cf2-413b-9f21-7a64a48bbee5.xml#710058be-6cf2-413b-9f21-7a64a48bbee5"/>
     </sourceConnections>
     <bounds
-        x="468"
+        x="324"
         y="336"
         width="120"
         height="55"/>
@@ -283,13 +283,13 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="361d5093-d3cf-4a48-a3d8-15e3122d0c17"
         source="420e0a33-1700-4671-9438-dcba76f656cd"
-        target="459464a2-beb2-4f9d-b338-5682aa87c7a2">
+        target="50d409ff-ca05-4451-b7f8-dae4f7cce5bf">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_fa1077c2-badd-4cab-a545-0f517c4a346e.xml#fa1077c2-badd-4cab-a545-0f517c4a346e"/>
     </sourceConnections>
     <bounds
-        x="324"
+        x="468"
         y="336"
         width="120"
         height="55"/>
