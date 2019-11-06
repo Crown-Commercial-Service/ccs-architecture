@@ -50,7 +50,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="12ba7162-bfc2-46e4-8896-9c965fb429e5"
-      targetConnections="5d0490ee-d2f2-490d-938e-85d573601963 667d6836-47ea-4fce-a961-9d719b9ab733">
+      targetConnections="5d0490ee-d2f2-490d-938e-85d573601963 667d6836-47ea-4fce-a961-9d719b9ab733 ca33761e-61e0-4858-ba16-0a57ec514fb5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b29c96b1-2f6d-42b3-a013-78c97f559f80"
@@ -59,15 +59,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_51f84099-1265-40b4-b750-4e1df5b9ab7b.xml#51f84099-1265-40b4-b750-4e1df5b9ab7b"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="79a9e47f-cc4d-4426-8273-bb48d891f2d1"
-        source="12ba7162-bfc2-46e4-8896-9c965fb429e5"
-        target="bb4b48c1-bc49-4600-862c-36aad001c23c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_ee3f5f9b-62d8-4e83-a65e-f8d8a7091149.xml#ee3f5f9b-62d8-4e83-a65e-f8d8a7091149"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -168,7 +159,25 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bb4b48c1-bc49-4600-862c-36aad001c23c"
-      targetConnections="79a9e47f-cc4d-4426-8273-bb48d891f2d1 1f2e4cc1-a67a-41bc-af3a-83e195b9ed61">
+      targetConnections="1f2e4cc1-a67a-41bc-af3a-83e195b9ed61">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="75d6a2a0-e00a-46bf-b270-91f95e3dbcb2"
+        source="bb4b48c1-bc49-4600-862c-36aad001c23c"
+        target="0692e329-8bb5-44bd-b571-8d2532546d1d">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_0e99428d-cab9-44f9-911b-0f7181e24e91.xml#0e99428d-cab9-44f9-911b-0f7181e24e91"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ca33761e-61e0-4858-ba16-0a57ec514fb5"
+        source="bb4b48c1-bc49-4600-862c-36aad001c23c"
+        target="12ba7162-bfc2-46e4-8896-9c965fb429e5">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_36713fd3-bf34-4575-a207-22bd601b217f.xml#36713fd3-bf34-4575-a207-22bd601b217f"/>
+    </sourceConnections>
     <bounds
         x="1190"
         y="481"
@@ -269,7 +278,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0692e329-8bb5-44bd-b571-8d2532546d1d"
-      targetConnections="24c9e4a5-12eb-4ceb-90c6-4e8b51476337 8f00aa01-2c19-4846-ac10-99492d219380">
+      targetConnections="24c9e4a5-12eb-4ceb-90c6-4e8b51476337 8f00aa01-2c19-4846-ac10-99492d219380 75d6a2a0-e00a-46bf-b270-91f95e3dbcb2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5d0490ee-d2f2-490d-938e-85d573601963"
@@ -292,7 +301,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="78df8bfa-9ad3-49f0-90d2-64c376110d29"
       textAlignment="1"
-      content="Brief and Proof might be the same thing as both are an attempt to provide a way to audit a Direct Award process was fair.&#xA;&#xA;In Digital Marketplace, the search and refinement used to find the thing to buy is used as proof. That said, DMp has no notion of Basket, journeys end when a customer has a short list with the selected item they want to buy.">
+      content="In Digital Marketplace, the search and refinement used to find the thing to buy is used as proof. That said, DMp has no notion of Basket, journeys end when a customer has a short list with the selected item they want to buy.">
     <sourceConnections
         id="24c9e4a5-12eb-4ceb-90c6-4e8b51476337"
         source="78df8bfa-9ad3-49f0-90d2-64c376110d29"
@@ -305,7 +314,7 @@
         x="1418"
         y="301"
         width="185"
-        height="252"/>
+        height="156"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
