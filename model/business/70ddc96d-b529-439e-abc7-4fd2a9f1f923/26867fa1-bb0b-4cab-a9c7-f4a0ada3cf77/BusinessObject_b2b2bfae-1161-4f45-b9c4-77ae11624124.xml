@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Order Change"
-    id="b2b2bfae-1161-4f45-b9c4-77ae11624124"/>
+    id="b2b2bfae-1161-4f45-b9c4-77ae11624124"
+    documentation="A document used to specify changes to an existing Order"/>

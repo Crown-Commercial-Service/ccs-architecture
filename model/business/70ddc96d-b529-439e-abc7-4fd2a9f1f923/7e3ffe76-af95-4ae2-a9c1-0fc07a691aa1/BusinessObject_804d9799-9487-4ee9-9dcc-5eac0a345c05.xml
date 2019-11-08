@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Awarded Notification"
+    id="804d9799-9487-4ee9-9dcc-5eac0a345c05"
+    documentation="The notification that communicates a contract award to the winner."/>

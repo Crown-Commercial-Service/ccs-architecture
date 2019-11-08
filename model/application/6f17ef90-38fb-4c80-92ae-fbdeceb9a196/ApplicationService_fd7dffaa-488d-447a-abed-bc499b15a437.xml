@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Front Door"
-    id="fd7dffaa-488d-447a-abed-bc499b15a437"/>
+    name="PaT"
+    id="fd7dffaa-488d-447a-abed-bc499b15a437"
+    documentation="Present a Thing. Composes all the (web) User Interfaces.&#xA;&#xA;Formerly known as Front Door."/>

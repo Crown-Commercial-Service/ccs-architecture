@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order Response"
+    id="cc6f448d-5544-49cf-b82a-c2945e18e861"
+    documentation="A document used to indicate detailed acceptance or rejection of an Order or to make a counter-offer."/>

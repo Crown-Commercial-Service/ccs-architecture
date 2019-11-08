@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fulfilment"
+    name="Fulfilment process"
     id="73ade9de-9eda-44f7-9df3-377784170046"
     documentation="A realistic fulfilment process may have many shipments for many consignments. At its simplest, there is one of each.&#xA;&#xA;&#xA;See also https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html#S-SHIPMENT-CONSIGNMENT">
   <children
