@@ -1,0 +1,11 @@
+initial,
+final,
+# Once a brief is published it can't be amended
+Brief {
+  initial   => Draft:     create;
+  Draft     => Draft:     edit;
+  Draft     => Draft:     copy;
+  Published => Draft:     copy;
+  Draft     => Published: publish;
+  Published => final;
+};
