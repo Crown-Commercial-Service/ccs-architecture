@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit trail management"
+    id="4317583d-3d62-4c33-86d6-bfd078d9f442"
+    documentation="Any procurement process must provide a means to audit that it was a fair process.&#xA;&#xA;Any decision made along de process that conditions what supplier is able opt for being awarded must be recorded here.&#xA;&#xA;Equally a customer has to be able to obtain these audit trails when in need.&#xA;&#xA;Equally CCS has to be able to manage these audits inasmuch to proof they are a fair intermetiary between the parties."/>

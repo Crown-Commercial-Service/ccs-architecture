@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fulfillment"
+    id="f16bd3b7-ff85-433b-924e-29ba907fa495"
+    documentation="CCS does not involve itself with fulfillment. This might change in the future."/>

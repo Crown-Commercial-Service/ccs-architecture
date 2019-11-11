@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier verification"
+    id="69841537-7de8-44cd-aa7a-62ed738a2ab5"
+    documentation="A supplier must provide proofs that they are suitable CCS providers.&#xA;&#xA;Some proofs will be generic and some specific for Agreement or Lot.&#xA;&#xA;Is Sourcing part of this?"/>

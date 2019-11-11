@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catalogue management"
+    id="41e9a7d0-9986-486e-a144-dc403a53243e"
+    documentation="Suppliers and CCS employees need to add/remove/edit catalogues and catalogue items.&#xA;&#xA;For example, a supplier may want to change an item they offer and CCS needs to review that the change is allowed and valid."/>

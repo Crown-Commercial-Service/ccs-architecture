@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Search"
+    id="18478940-73ea-4c63-8f67-669fc81c5f13"
+    documentation="The search is the automatic support to find something.&#xA;&#xA;This is quite broad and probably deserves some decomposition. For example, it's not the same searching for an agreement that searching for a service or even searching for a supplier.&#xA;&#xA;Also, search users are Customers, Suppliers and CCS employees for different reasons and expected results (and legal constraints)."/>

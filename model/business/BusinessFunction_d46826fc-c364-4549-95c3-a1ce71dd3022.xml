@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User identification"
+    id="d46826fc-c364-4549-95c3-a1ce71dd3022"
+    documentation="Any user of this system needs to be uniquely identified regardless of their type (customer, supplier, ccs employee, ...) Also organisations and groups within need to be identified and managed."/>

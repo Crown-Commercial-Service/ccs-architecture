@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agreement management"
+    id="89285e46-fb62-4efc-a8a0-a31bf88dd4fa"
+    documentation="Each agreement needs to be managed for as long as it is relevant for CCS. This includes the time when the Agreement is no longer in service but it needs to be kept for auditability purposes, legal, etc."/>
