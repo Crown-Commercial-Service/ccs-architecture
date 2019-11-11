@@ -1,0 +1,33 @@
+initial,
+CompetitionApplication {
+  Draft,
+  Submitted:
+    entry/Supplier submits application
+    to competition,
+  Pending:
+    entry/Buyer selects application,
+  Awarded:
+    entry/Buyer awards application,
+  Rejected:
+    entry/Buyer awards another application,
+  Drop [color="red"]:
+    entry/Supplier drops from the competition,
+  Aborted:
+    entry/Couldn't create contract award;
+
+  initial => Draft: create;
+  Draft => Draft: edit;
+  Draft => Draft: copy;
+  Draft => Submitted: submit;
+  Submitted => Pending: select;
+  Submitted => Rejected: reject;
+  Submitted => Drop: drop;
+  Pending => Awarded: award;
+  Pending => Aborted: abort;
+  Draft => final: delete;
+  Awarded => final;
+  Rejected => final;
+  Aborted => final;
+  Drop => final;
+},
+final;

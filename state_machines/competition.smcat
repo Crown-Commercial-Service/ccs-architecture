@@ -1,7 +1,5 @@
 initial,
-final,
 Competition {
-  initial,
   Draft,
   Open:
     entry/Brief.Published,
@@ -16,8 +14,7 @@ Competition {
   Unsuccessful,
   # For example, no longer able to award 
   # because the budget no longer exist.
-  Cancelled,
-  final;
+  Cancelled;
 
   initial => Draft: create;
   Draft => Draft: edit;
@@ -33,5 +30,5 @@ Competition {
   Unsuccessful => final;
   Cancelled => final;
   Withdrawn => final;
-};
-
+},
+final;
