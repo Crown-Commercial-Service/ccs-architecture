@@ -1,0 +1,34 @@
+initial,
+Competition {
+  Draft,
+  Open:
+    entry/Brief.Published,
+  Withdrawn,
+  # Closes automatically after the period
+  # of time dictated by the Commercial
+  # Agreement.
+  Closed,
+  Awarded,
+  # For example, no suitable suppliers 
+  # found.
+  Unsuccessful,
+  # For example, no longer able to award 
+  # because the budget no longer exist.
+  Cancelled;
+
+  initial => Draft: create;
+  Draft => Draft: edit;
+  Draft => Draft: copy;
+  Draft => Open: publish;
+  Open => Draft: copy;
+  Open => Withdrawn: withdraw;
+  Open => Closed: close;
+  Closed => Awarded: award;
+  Closed => Unsuccessful: drop;
+  Closed => Cancelled: cancel;
+  Awarded => final;
+  Unsuccessful => final;
+  Cancelled => final;
+  Withdrawn => final;
+},
+final;

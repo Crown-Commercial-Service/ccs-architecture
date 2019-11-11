@@ -1,0 +1,24 @@
+{
+  "name": "ccs-architecture",
+  "version": "0.0.0",
+  "description": "Repository to hold CCS-wide artefacts produced by the architecture function.",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "state-machine-cat": "^5.3.6"
+  },
+  "scripts": {
+    "smcat": "smcat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crown-Commercial-Service/ccs-architecture.git"
+  },
+  "keywords": [
+    "ccs"
+  ],
+  "bugs": {
+    "url": "https://github.com/Crown-Commercial-Service/ccs-architecture/issues"
+  },
+  "homepage": "https://github.com/Crown-Commercial-Service/ccs-architecture#readme"
+}

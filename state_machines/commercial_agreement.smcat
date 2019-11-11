@@ -1,0 +1,32 @@
+initial,
+CommercialAgreement {
+  Draft,
+  # DMp calls it "coming". Maybe not a 
+  # state, just an event?.
+  Preview:
+    Suppliers are notified,
+  OpenClarifications:
+    Suppliers submit clarifications to CCS,
+  OpenApplications:
+    Suppliers submit applications,
+  Pending:
+    CCS reviews applications,
+  Standstill:
+    Accepted suppliers sign agreement,
+  Live,
+  # DMp calls it "expired"
+  Closed;
+
+  initial => Draft: create;
+  Draft => Draft: edit;
+  Draft => Preview: publish;
+  Preview => OpenClarifications: publish;
+  OpenClarifications => OpenApplications: publish;
+  OpenApplications => Pending: close;
+  Pending => Standstill: end review;
+  Standstill => Live: publish;
+  Live => Closed: close;
+  Live => Draft: copy;
+  Closed => final;
+},
+final;
