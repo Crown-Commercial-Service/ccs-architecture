@@ -391,6 +391,9 @@
       id="c59e28ea-ffce-47c7-9a03-22cd7ce4ec76"
       textAlignment="1"
       alpha="100">
+    <features
+        name="lineAlpha"
+        value="100"/>
     <bounds
         x="648"
         y="72"

@@ -3,4 +3,4 @@
     name="CCS Architecture"
     id="fa7c7a16-1338-4eae-97e2-7b9aed26799c"
     purpose="When in doubt, the definitions should align with (in this order):&#xA;&#xA;* https://standard.open-contracting.org/latest/en/&#xA;* http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html&#xA;* https://schema.org/"
-    version="4.4.0"/>
+    version="4.6.0"/>
