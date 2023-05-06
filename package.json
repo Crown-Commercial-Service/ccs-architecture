@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "state-machine-cat": "^5.3.6"
+    "state-machine-cat": "^11.0.0"
   },
   "scripts": {
     "smcat": "smcat"
